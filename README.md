@@ -7,5 +7,5 @@
     <ul>
     <li>Border</li>
     <li>Margin and padding</li>
-    </li>Text formating</li>
+    <li>Text formating</li>
     </ul>
