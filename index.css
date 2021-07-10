@@ -3,3 +3,9 @@
     width: 60%;
     border : black 1px solid;
 }
+
+h3{
+    border: 7px solid black;
+    padding: 20px;
+    margin: 50px;
+}
