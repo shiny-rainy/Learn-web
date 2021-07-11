@@ -22,7 +22,7 @@
     margin: 10px;
     height: 200px;
     display: flex;
-    
+
     flex-direction: row;
     /* flex-wrap: wrap;   */
     justify-content: center;
@@ -37,5 +37,9 @@
     width: 70px;
     line-height: 50px;
     background: crimson;
+
+    /* Flexing the size */
+    /* flex-basis: 100px; */
+    flex-grow: 1;
 
 }
