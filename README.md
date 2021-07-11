@@ -8,9 +8,7 @@
     <li>Margin and padding</li>
     <li>Text formating</li>
     </ul>
-
-
-    <br>
+    </br>
 
 <p><b>July 11</b>: </p>
     <ul>
