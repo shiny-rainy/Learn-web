@@ -13,7 +13,7 @@
 <p><b>July 11</b>: </p>
     <ul>
     <li>Float and display</li>
-    <li>Flexbox:<br>
+    <li style="color:crimson">Flexbox:<br>
     <table>
     <td>Display</td>
     <td>flex-direction</td>
@@ -21,5 +21,5 @@
     <td>justify-content</td>
     </table>
     </li>
-    <!-- <li>Text formating</li> -->
+    <li>Flex item order</li>
     </ul>

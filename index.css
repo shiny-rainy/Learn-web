@@ -15,14 +15,27 @@
 .container{
     /* background-color: red; */
     /* border: 5px solid blue; */
-    background-color: grey;
+    /* background-color: grey;
+    margin: 10px; */
+ 
+    background: chartreuse;
     margin: 10px;
-
+    height: 200px;
     display: flex;
+    
     flex-direction: row;
-    /* flex-wrap: wrap; */
+    /* flex-wrap: wrap;   */
+    justify-content: center;
+    /* align-items: center; */
 }
 
 .container-item{
     margin: 20px;
+    text-align: center;
+    /* padding: 10px;
+    padding-bottom: 100px; */
+    width: 70px;
+    line-height: 50px;
+    background: crimson;
+
 }
