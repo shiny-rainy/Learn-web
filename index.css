@@ -1,11 +1,28 @@
-#image{
+/* #image{
     height : 300px;
-    width: 60%;
-    border : black 1px solid;
+    width: 60%; */
+    /* border : black 1px solid; */
+    /* float: right; */
+/* } */
+
+/* h4{ */
+    /* border: 7px solid black; */
+    /* padding: 20px;
+    margin: 50px; */
+    /* display: inline-block; */
+/* } */
+
+.container{
+    /* background-color: red; */
+    /* border: 5px solid blue; */
+    background-color: grey;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: row;
+    /* flex-wrap: wrap; */
 }
 
-h3{
-    border: 7px solid black;
-    padding: 20px;
-    margin: 50px;
+.container-item{
+    margin: 20px;
 }
